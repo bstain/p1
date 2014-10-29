@@ -7,8 +7,8 @@
 <title>Hello</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.min.js"></script>
-<script src="<c:url value="/resource/todo/todo.js" />"></script>
-<link rel="stylesheet" href="<c:url value="/resource/todo/todo.css" />">
+<script src="<c:url value="/resources/todo/todo.js" />"></script>
+<link rel="stylesheet" href="<c:url value="/resources/todo/todo.css" />">
 </head>
 <body>
 	<h1>Hello world!</h1>
